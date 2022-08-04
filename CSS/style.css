@@ -1,0 +1,13 @@
+body {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+}
+.clock {
+    border: 3px solid aqua;
+    box-shadow: inset 0 0 3px aqua, 0 0 3px aqua;
+    background-color: black;
+    color: aqua;
+    padding: 1.5rem 2.5rem;
+    font-size: 14rem;
+}
